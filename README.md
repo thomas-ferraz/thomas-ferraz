@@ -10,6 +10,6 @@ Hi everyone, i am coming back after 7 months outside github!
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomas-ferraz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomas-ferraz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-ferraz&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>-->
 </p>
