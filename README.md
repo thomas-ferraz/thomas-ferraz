@@ -7,7 +7,7 @@
 
 ### Thank you for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=thomas-ferraz.thomas-ferraz)
 
-Hi everyone, i am coming back after 7 months outside github! 
+Hi everyone, i am coming back after 7 months outside github! New exciting projects are coming!
 
 
 📈 **My GitHub Stats:**
